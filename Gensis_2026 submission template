@@ -1,0 +1,54 @@
+Should have answers to below:
+
+What is the problem you are solving? Please be precise and clear. Try NOT to go all over the places when you list your problems – the more specific, direct and fewer problems you target, the better it is
+Which businesses processes you are targeting? 
+Who will be the users of this solution? Examples of users could be developer, architect, program manager, etc.
+
+Include any citation or source with hyperlink that confirms the criticality of problem(s). How many people or how much proportion of business flow is impacted by this problem? 
+
+Why do you think this problem is critical to solve – what is the current situation of the users/business when this problem is not solved? Is there any other player in the market trying to solve the same problem? Please identify these players, and add them as your market research data (use more slides, 1 or 2 to cover market information).
+
+Should have answers to below:
+
+What are you doing to solve the problem?
+
+How you are solving? Please include a building block and/or process flow diagram and/or operational flow. 
+Please draw product block diagram and clearly indicate SW and FW components (if on device)
+
+Please make a comparison with the existing solution/flow – what new blocks, process, or models you have added in the existing solution? Please clearly mark what components belong to current solution available in market and what components are newly added to your solution (color coding). 
+
+
+Please visualize and mention all use cases you can think with diagram.  
+
+Please explain how your solution will solve the problems you mentioned in problem statement for each use case. Use a flow diagram that shows the sequence of steps about how your solution operates including
+Any start and configuration sequence, 
+How solution responds in each use case when the problems mentioned in the problem statement are encountered or about to be encountered.
+
+Should have answers to below:
+
+Value of idea to user: Why will someone use your solution? What benefits will he/she get? 
+Please compare current situation (when your solution is not used) with your solution in terms of some key metrics with specific criteria and numbers.
+Benefit analysis/Economic Value (to users and organization)
+Please explain why you think your idea is valuable (What quantity of efficiency or quality KPIs are impacted). 
+why do you think your solution can help a business teams in SSIR?
+
+
+Should have answers to below:
+
+What are the sufficient features that are part of the Proof of concept (PoC)
+Block diagram of the stripped down version of the solution (and deployment)
+What components you already had, what you have built
+What is the source of implementation that was built and what is the processing cost for the same (for each item that is built)
+What is the environment, license availability and related information required to deploy the solution
+Include results from deployment/PoC
+
+Note: Infrastructure/Licenses required for building PoC/solution to be managed by team
+
+
+Should have answers to below:
+
+Training time (if done)
+Training data (if required)
+KPI Metric (efficiency, quality)
+Processing time (in the context of the process where the problem/solution is deployed)
+(If Idea is selected for Final Presentation) A demonstration and walkthrough in under 3 to 5 minutes.
